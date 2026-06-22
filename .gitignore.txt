@@ -1,0 +1,91 @@
+## Build results
+bin/
+obj/
+out/
+
+## Visual Studio files
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Rider / JetBrains
+.idea/
+
+## VS Code
+.vscode/
+
+## Logs
+*.log
+
+## OS generated files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+## Windows Installer files
+*.cab
+*.msi
+*.msix
+*.msm
+*.msp
+
+## NuGet
+*.nupkg
+*.snupkg
+packages/
+.nuget/
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+## .NET Core
+*.runtimeconfig.dev.json
+*.deps.json
+
+## Test results
+TestResults/
+*.trx
+
+## Publish output
+publish/
+*.publishsettings
+
+## Resharper
+_ReSharper*/
+*.DotSettings.user
+
+## DotCover
+*.dotCover
+
+## Azure DevOps
+*.build.csdef
+
+## Entity Framework
+*.edmx.diagram
+
+## SQL Server files
+*.mdf
+*.ldf
+
+## Backup & temp files
+*.bak
+*.tmp
+*.temp
+
+## Logs and coverage
+coverage/
+*.coverage
+*.coveragexml
+
+## Local settings
+appsettings.Development.json
+
+## Generated files
+Generated_Code/
+
+## Others
+*.cache
+*.pidb
+*.svclog

@@ -1,0 +1,14 @@
+C:\Users\archi\OneDrive\Documents\Cognizantfolder\FinancialForecasting\bin\Debug\net10.0\FinancialForecasting.exe
+C:\Users\archi\OneDrive\Documents\Cognizantfolder\FinancialForecasting\bin\Debug\net10.0\FinancialForecasting.deps.json
+C:\Users\archi\OneDrive\Documents\Cognizantfolder\FinancialForecasting\bin\Debug\net10.0\FinancialForecasting.runtimeconfig.json
+C:\Users\archi\OneDrive\Documents\Cognizantfolder\FinancialForecasting\bin\Debug\net10.0\FinancialForecasting.dll
+C:\Users\archi\OneDrive\Documents\Cognizantfolder\FinancialForecasting\bin\Debug\net10.0\FinancialForecasting.pdb
+C:\Users\archi\OneDrive\Documents\Cognizantfolder\FinancialForecasting\obj\Debug\net10.0\FinancialForecasting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\archi\OneDrive\Documents\Cognizantfolder\FinancialForecasting\obj\Debug\net10.0\FinancialForecasting.AssemblyInfoInputs.cache
+C:\Users\archi\OneDrive\Documents\Cognizantfolder\FinancialForecasting\obj\Debug\net10.0\FinancialForecasting.AssemblyInfo.cs
+C:\Users\archi\OneDrive\Documents\Cognizantfolder\FinancialForecasting\obj\Debug\net10.0\FinancialForecasting.csproj.CoreCompileInputs.cache
+C:\Users\archi\OneDrive\Documents\Cognizantfolder\FinancialForecasting\obj\Debug\net10.0\FinancialForecasting.dll
+C:\Users\archi\OneDrive\Documents\Cognizantfolder\FinancialForecasting\obj\Debug\net10.0\refint\FinancialForecasting.dll
+C:\Users\archi\OneDrive\Documents\Cognizantfolder\FinancialForecasting\obj\Debug\net10.0\FinancialForecasting.pdb
+C:\Users\archi\OneDrive\Documents\Cognizantfolder\FinancialForecasting\obj\Debug\net10.0\FinancialForecasting.genruntimeconfig.cache
+C:\Users\archi\OneDrive\Documents\Cognizantfolder\FinancialForecasting\obj\Debug\net10.0\ref\FinancialForecasting.dll

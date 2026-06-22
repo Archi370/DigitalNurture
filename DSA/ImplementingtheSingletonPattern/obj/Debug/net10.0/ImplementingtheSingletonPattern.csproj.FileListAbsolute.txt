@@ -1,0 +1,14 @@
+C:\Users\archi\OneDrive\Documents\Cognizantfolder\ImplementingtheSingletonPattern\bin\Debug\net10.0\ImplementingtheSingletonPattern.exe
+C:\Users\archi\OneDrive\Documents\Cognizantfolder\ImplementingtheSingletonPattern\bin\Debug\net10.0\ImplementingtheSingletonPattern.deps.json
+C:\Users\archi\OneDrive\Documents\Cognizantfolder\ImplementingtheSingletonPattern\bin\Debug\net10.0\ImplementingtheSingletonPattern.runtimeconfig.json
+C:\Users\archi\OneDrive\Documents\Cognizantfolder\ImplementingtheSingletonPattern\bin\Debug\net10.0\ImplementingtheSingletonPattern.dll
+C:\Users\archi\OneDrive\Documents\Cognizantfolder\ImplementingtheSingletonPattern\bin\Debug\net10.0\ImplementingtheSingletonPattern.pdb
+C:\Users\archi\OneDrive\Documents\Cognizantfolder\ImplementingtheSingletonPattern\obj\Debug\net10.0\ImplementingtheSingletonPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\archi\OneDrive\Documents\Cognizantfolder\ImplementingtheSingletonPattern\obj\Debug\net10.0\ImplementingtheSingletonPattern.AssemblyInfoInputs.cache
+C:\Users\archi\OneDrive\Documents\Cognizantfolder\ImplementingtheSingletonPattern\obj\Debug\net10.0\ImplementingtheSingletonPattern.AssemblyInfo.cs
+C:\Users\archi\OneDrive\Documents\Cognizantfolder\ImplementingtheSingletonPattern\obj\Debug\net10.0\ImplementingtheSingletonPattern.csproj.CoreCompileInputs.cache
+C:\Users\archi\OneDrive\Documents\Cognizantfolder\ImplementingtheSingletonPattern\obj\Debug\net10.0\ImplementingtheSingletonPattern.dll
+C:\Users\archi\OneDrive\Documents\Cognizantfolder\ImplementingtheSingletonPattern\obj\Debug\net10.0\refint\ImplementingtheSingletonPattern.dll
+C:\Users\archi\OneDrive\Documents\Cognizantfolder\ImplementingtheSingletonPattern\obj\Debug\net10.0\ImplementingtheSingletonPattern.pdb
+C:\Users\archi\OneDrive\Documents\Cognizantfolder\ImplementingtheSingletonPattern\obj\Debug\net10.0\ImplementingtheSingletonPattern.genruntimeconfig.cache
+C:\Users\archi\OneDrive\Documents\Cognizantfolder\ImplementingtheSingletonPattern\obj\Debug\net10.0\ref\ImplementingtheSingletonPattern.dll

@@ -1,0 +1,14 @@
+C:\Users\archi\OneDrive\Documents\Cognizantfolder\E-commercePlatformSearchFunction\bin\Debug\net10.0\E-commercePlatformSearchFunction.exe
+C:\Users\archi\OneDrive\Documents\Cognizantfolder\E-commercePlatformSearchFunction\bin\Debug\net10.0\E-commercePlatformSearchFunction.deps.json
+C:\Users\archi\OneDrive\Documents\Cognizantfolder\E-commercePlatformSearchFunction\bin\Debug\net10.0\E-commercePlatformSearchFunction.runtimeconfig.json
+C:\Users\archi\OneDrive\Documents\Cognizantfolder\E-commercePlatformSearchFunction\bin\Debug\net10.0\E-commercePlatformSearchFunction.dll
+C:\Users\archi\OneDrive\Documents\Cognizantfolder\E-commercePlatformSearchFunction\bin\Debug\net10.0\E-commercePlatformSearchFunction.pdb
+C:\Users\archi\OneDrive\Documents\Cognizantfolder\E-commercePlatformSearchFunction\obj\Debug\net10.0\E-commercePlatformSearchFunction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\archi\OneDrive\Documents\Cognizantfolder\E-commercePlatformSearchFunction\obj\Debug\net10.0\E-commercePlatformSearchFunction.AssemblyInfoInputs.cache
+C:\Users\archi\OneDrive\Documents\Cognizantfolder\E-commercePlatformSearchFunction\obj\Debug\net10.0\E-commercePlatformSearchFunction.AssemblyInfo.cs
+C:\Users\archi\OneDrive\Documents\Cognizantfolder\E-commercePlatformSearchFunction\obj\Debug\net10.0\E-commercePlatformSearchFunction.csproj.CoreCompileInputs.cache
+C:\Users\archi\OneDrive\Documents\Cognizantfolder\E-commercePlatformSearchFunction\obj\Debug\net10.0\E-commercePlatformSearchFunction.dll
+C:\Users\archi\OneDrive\Documents\Cognizantfolder\E-commercePlatformSearchFunction\obj\Debug\net10.0\refint\E-commercePlatformSearchFunction.dll
+C:\Users\archi\OneDrive\Documents\Cognizantfolder\E-commercePlatformSearchFunction\obj\Debug\net10.0\E-commercePlatformSearchFunction.pdb
+C:\Users\archi\OneDrive\Documents\Cognizantfolder\E-commercePlatformSearchFunction\obj\Debug\net10.0\E-commercePlatformSearchFunction.genruntimeconfig.cache
+C:\Users\archi\OneDrive\Documents\Cognizantfolder\E-commercePlatformSearchFunction\obj\Debug\net10.0\ref\E-commercePlatformSearchFunction.dll

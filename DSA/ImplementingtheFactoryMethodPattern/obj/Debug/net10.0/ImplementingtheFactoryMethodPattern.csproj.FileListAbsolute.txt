@@ -1,0 +1,14 @@
+C:\Users\archi\OneDrive\Documents\Cognizantfolder\ImplementingtheFactoryMethodPattern\bin\Debug\net10.0\ImplementingtheFactoryMethodPattern.exe
+C:\Users\archi\OneDrive\Documents\Cognizantfolder\ImplementingtheFactoryMethodPattern\bin\Debug\net10.0\ImplementingtheFactoryMethodPattern.deps.json
+C:\Users\archi\OneDrive\Documents\Cognizantfolder\ImplementingtheFactoryMethodPattern\bin\Debug\net10.0\ImplementingtheFactoryMethodPattern.runtimeconfig.json
+C:\Users\archi\OneDrive\Documents\Cognizantfolder\ImplementingtheFactoryMethodPattern\bin\Debug\net10.0\ImplementingtheFactoryMethodPattern.dll
+C:\Users\archi\OneDrive\Documents\Cognizantfolder\ImplementingtheFactoryMethodPattern\bin\Debug\net10.0\ImplementingtheFactoryMethodPattern.pdb
+C:\Users\archi\OneDrive\Documents\Cognizantfolder\ImplementingtheFactoryMethodPattern\obj\Debug\net10.0\ImplementingtheFactoryMethodPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\archi\OneDrive\Documents\Cognizantfolder\ImplementingtheFactoryMethodPattern\obj\Debug\net10.0\ImplementingtheFactoryMethodPattern.AssemblyInfoInputs.cache
+C:\Users\archi\OneDrive\Documents\Cognizantfolder\ImplementingtheFactoryMethodPattern\obj\Debug\net10.0\ImplementingtheFactoryMethodPattern.AssemblyInfo.cs
+C:\Users\archi\OneDrive\Documents\Cognizantfolder\ImplementingtheFactoryMethodPattern\obj\Debug\net10.0\ImplementingtheFactoryMethodPattern.csproj.CoreCompileInputs.cache
+C:\Users\archi\OneDrive\Documents\Cognizantfolder\ImplementingtheFactoryMethodPattern\obj\Debug\net10.0\ImplementingtheFactoryMethodPattern.dll
+C:\Users\archi\OneDrive\Documents\Cognizantfolder\ImplementingtheFactoryMethodPattern\obj\Debug\net10.0\refint\ImplementingtheFactoryMethodPattern.dll
+C:\Users\archi\OneDrive\Documents\Cognizantfolder\ImplementingtheFactoryMethodPattern\obj\Debug\net10.0\ImplementingtheFactoryMethodPattern.pdb
+C:\Users\archi\OneDrive\Documents\Cognizantfolder\ImplementingtheFactoryMethodPattern\obj\Debug\net10.0\ImplementingtheFactoryMethodPattern.genruntimeconfig.cache
+C:\Users\archi\OneDrive\Documents\Cognizantfolder\ImplementingtheFactoryMethodPattern\obj\Debug\net10.0\ref\ImplementingtheFactoryMethodPattern.dll
