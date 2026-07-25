@@ -1,0 +1,6 @@
+C:\FSE_Labs\UtilLib\bin\Debug\UtilLib.dll
+C:\FSE_Labs\UtilLib\bin\Debug\UtilLib.pdb
+C:\FSE_Labs\UtilLib\obj\Debug\UtilLib.csproj.AssemblyReference.cache
+C:\FSE_Labs\UtilLib\obj\Debug\UtilLib.csproj.CoreCompileInputs.cache
+C:\FSE_Labs\UtilLib\obj\Debug\UtilLib.dll
+C:\FSE_Labs\UtilLib\obj\Debug\UtilLib.pdb
