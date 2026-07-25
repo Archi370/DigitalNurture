@@ -1,0 +1,6 @@
+C:\FSE_Labs\AccountsManagerLib\bin\Debug\AccountsManagerLib.dll
+C:\FSE_Labs\AccountsManagerLib\bin\Debug\AccountsManagerLib.pdb
+C:\FSE_Labs\AccountsManagerLib\obj\Debug\AccountsManagerLib.csproj.AssemblyReference.cache
+C:\FSE_Labs\AccountsManagerLib\obj\Debug\AccountsManagerLib.csproj.CoreCompileInputs.cache
+C:\FSE_Labs\AccountsManagerLib\obj\Debug\AccountsManagerLib.dll
+C:\FSE_Labs\AccountsManagerLib\obj\Debug\AccountsManagerLib.pdb
