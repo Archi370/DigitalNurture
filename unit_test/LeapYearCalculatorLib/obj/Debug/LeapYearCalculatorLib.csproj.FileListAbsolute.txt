@@ -1,0 +1,6 @@
+C:\FSE_Labs\LeapYearCalculatorLib\bin\Debug\LeapYearCalculatorLib.dll
+C:\FSE_Labs\LeapYearCalculatorLib\bin\Debug\LeapYearCalculatorLib.pdb
+C:\FSE_Labs\LeapYearCalculatorLib\obj\Debug\LeapYearCalculatorLib.csproj.AssemblyReference.cache
+C:\FSE_Labs\LeapYearCalculatorLib\obj\Debug\LeapYearCalculatorLib.csproj.CoreCompileInputs.cache
+C:\FSE_Labs\LeapYearCalculatorLib\obj\Debug\LeapYearCalculatorLib.dll
+C:\FSE_Labs\LeapYearCalculatorLib\obj\Debug\LeapYearCalculatorLib.pdb
