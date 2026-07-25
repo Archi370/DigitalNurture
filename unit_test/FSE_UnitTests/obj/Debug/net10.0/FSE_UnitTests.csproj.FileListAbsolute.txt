@@ -1,0 +1,5 @@
+C:\FSE_Labs\FSE_UnitTests\obj\Debug\net10.0\FSE_UnitTests.csproj.AssemblyReference.cache
+C:\FSE_Labs\FSE_UnitTests\obj\Debug\net10.0\FSE_UnitTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\FSE_Labs\FSE_UnitTests\obj\Debug\net10.0\FSE_UnitTests.AssemblyInfoInputs.cache
+C:\FSE_Labs\FSE_UnitTests\obj\Debug\net10.0\FSE_UnitTests.AssemblyInfo.cs
+C:\FSE_Labs\FSE_UnitTests\obj\Debug\net10.0\FSE_UnitTests.csproj.CoreCompileInputs.cache

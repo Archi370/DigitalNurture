@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "RMj/+G+82+0=",
+  "success": true,
+  "projectFilePath": "C:\\FSE_Labs\\FSE_UnitTests\\FSE_UnitTests.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ANUSHKA\\.nuget\\packages\\microsoft.codecoverage\\17.8.0\\microsoft.codecoverage.17.8.0.nupkg.sha512",
+    "C:\\Users\\ANUSHKA\\.nuget\\packages\\microsoft.net.test.sdk\\17.8.0\\microsoft.net.test.sdk.17.8.0.nupkg.sha512",
+    "C:\\Users\\ANUSHKA\\.nuget\\packages\\nunit\\3.14.0\\nunit.3.14.0.nupkg.sha512",
+    "C:\\Users\\ANUSHKA\\.nuget\\packages\\nunit.analyzers\\3.10.0\\nunit.analyzers.3.10.0.nupkg.sha512",
+    "C:\\Users\\ANUSHKA\\.nuget\\packages\\nunit3testadapter\\4.5.0\\nunit3testadapter.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
