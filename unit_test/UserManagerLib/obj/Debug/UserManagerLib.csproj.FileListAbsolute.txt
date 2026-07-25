@@ -1,0 +1,6 @@
+C:\FSE_Labs\UserManagerLib\bin\Debug\UserManagerLib.dll
+C:\FSE_Labs\UserManagerLib\bin\Debug\UserManagerLib.pdb
+C:\FSE_Labs\UserManagerLib\obj\Debug\UserManagerLib.csproj.AssemblyReference.cache
+C:\FSE_Labs\UserManagerLib\obj\Debug\UserManagerLib.csproj.CoreCompileInputs.cache
+C:\FSE_Labs\UserManagerLib\obj\Debug\UserManagerLib.dll
+C:\FSE_Labs\UserManagerLib\obj\Debug\UserManagerLib.pdb
