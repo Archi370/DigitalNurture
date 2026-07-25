@@ -1,0 +1,101 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\FSE_Labs\\SeasonUnitTests\\SeasonUnitTests.csproj": {}
+  },
+  "projects": {
+    "C:\\FSE_Labs\\FourSeasonsLib\\SeasonsLib.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\FSE_Labs\\FourSeasonsLib\\SeasonsLib.csproj",
+        "projectName": "SeasonsLib",
+        "projectPath": "C:\\FSE_Labs\\FourSeasonsLib\\SeasonsLib.csproj",
+        "UsingMicrosoftNETSdk": false,
+        "frameworks": {
+          "net472": {
+            "framework": "net472",
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "framework": "net472"
+        }
+      }
+    },
+    "C:\\FSE_Labs\\SeasonUnitTests\\SeasonUnitTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\FSE_Labs\\SeasonUnitTests\\SeasonUnitTests.csproj",
+        "projectName": "SeasonUnitTests",
+        "projectPath": "C:\\FSE_Labs\\SeasonUnitTests\\SeasonUnitTests.csproj",
+        "packagesPath": "C:\\Users\\ANUSHKA\\.nuget\\packages\\",
+        "outputPath": "C:\\FSE_Labs\\SeasonUnitTests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ANUSHKA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "framework": "net472",
+            "targetAlias": "net472",
+            "projectReferences": {
+              "C:\\FSE_Labs\\FourSeasonsLib\\SeasonsLib.csproj": {
+                "projectPath": "C:\\FSE_Labs\\FourSeasonsLib\\SeasonsLib.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.300"
+      },
+      "frameworks": {
+        "net472": {
+          "framework": "net472",
+          "targetAlias": "net472",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.8.0, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[4.2.2, )"
+            },
+            "NUnit.Analyzers": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.6.0, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
