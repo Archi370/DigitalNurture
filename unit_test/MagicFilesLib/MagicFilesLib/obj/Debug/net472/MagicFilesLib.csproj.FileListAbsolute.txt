@@ -1,0 +1,9 @@
+C:\FSE_Labs\MagicFilesLib\MagicFilesLib\bin\Debug\net472\MagicFilesLib.dll
+C:\FSE_Labs\MagicFilesLib\MagicFilesLib\bin\Debug\net472\MagicFilesLib.pdb
+C:\FSE_Labs\MagicFilesLib\MagicFilesLib\obj\Debug\net472\MagicFilesLib.csproj.AssemblyReference.cache
+C:\FSE_Labs\MagicFilesLib\MagicFilesLib\obj\Debug\net472\MagicFilesLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\FSE_Labs\MagicFilesLib\MagicFilesLib\obj\Debug\net472\MagicFilesLib.AssemblyInfoInputs.cache
+C:\FSE_Labs\MagicFilesLib\MagicFilesLib\obj\Debug\net472\MagicFilesLib.AssemblyInfo.cs
+C:\FSE_Labs\MagicFilesLib\MagicFilesLib\obj\Debug\net472\MagicFilesLib.csproj.CoreCompileInputs.cache
+C:\FSE_Labs\MagicFilesLib\MagicFilesLib\obj\Debug\net472\MagicFilesLib.dll
+C:\FSE_Labs\MagicFilesLib\MagicFilesLib\obj\Debug\net472\MagicFilesLib.pdb
