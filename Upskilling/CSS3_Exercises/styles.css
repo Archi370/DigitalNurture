@@ -1,0 +1,39 @@
+/* 1 & 2: Comments & Structure */
+/* Header Styles */
+#mainHeader { color: #333; text-align: center; }
+
+/* 3: Selectors Playground */
+* { margin: 0; padding: 0; box-sizing: border-box; } /* Universal */
+h2 { font-size: 24px; } /* Element */
+.eventCard { border: 1px solid #ccc; padding: 10px; } /* Class */
+h3, p { color: #555; } /* Grouping */
+
+/* 4: Colors & Backgrounds */
+body { background: #f4f4f4 url('bg.jpg') no-repeat center fixed; background-size: cover; }
+.header-grad { background: linear-gradient(to right, #007BFF, #00d2ff); color: white; }
+
+/* 5: Typography */
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+body { font-family: 'Roboto', sans-serif; font-size: 16px; }
+
+/* 6: Link & List Styling */
+a:link { color: blue; }
+a:hover { color: red; text-decoration: underline; }
+nav ul { list-style-type: none; }
+
+/* 7: Table Styling */
+table { border-collapse: collapse; width: 100%; }
+th, td { border: 1px solid #ddd; padding: 8px; text-align: center; }
+tr:nth-child(even) { background-color: #f2f2f2; }
+
+/* 8: Box Model */
+.eventCard { margin: 20px; padding: 15px; border: 2px solid #000; outline: 1px dashed blue; }
+
+/* 9: Multiple Columns */
+.news-article { column-count: 2; column-gap: 30px; column-rule: 1px solid gray; }
+
+/* 10: Responsive Design */
+@media (max-width: 768px) {
+    .news-article { column-count: 1; }
+    nav ul { display: flex; flex-direction: column; }
+}
