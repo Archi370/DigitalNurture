@@ -1,0 +1,6 @@
+C:\FSE_Labs\CollectionsLib\bin\Debug\CollectionsLib.dll
+C:\FSE_Labs\CollectionsLib\bin\Debug\CollectionsLib.pdb
+C:\FSE_Labs\CollectionsLib\obj\Debug\CollectionsLib.csproj.AssemblyReference.cache
+C:\FSE_Labs\CollectionsLib\obj\Debug\CollectionsLib.csproj.CoreCompileInputs.cache
+C:\FSE_Labs\CollectionsLib\obj\Debug\CollectionsLib.dll
+C:\FSE_Labs\CollectionsLib\obj\Debug\CollectionsLib.pdb
