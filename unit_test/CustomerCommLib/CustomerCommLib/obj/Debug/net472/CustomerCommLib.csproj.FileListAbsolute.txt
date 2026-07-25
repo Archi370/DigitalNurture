@@ -1,0 +1,9 @@
+C:\FSE_Labs\CustomerCommLib\CustomerCommLib\bin\Debug\net472\CustomerCommLib.dll
+C:\FSE_Labs\CustomerCommLib\CustomerCommLib\bin\Debug\net472\CustomerCommLib.pdb
+C:\FSE_Labs\CustomerCommLib\CustomerCommLib\obj\Debug\net472\CustomerCommLib.csproj.AssemblyReference.cache
+C:\FSE_Labs\CustomerCommLib\CustomerCommLib\obj\Debug\net472\CustomerCommLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\FSE_Labs\CustomerCommLib\CustomerCommLib\obj\Debug\net472\CustomerCommLib.AssemblyInfoInputs.cache
+C:\FSE_Labs\CustomerCommLib\CustomerCommLib\obj\Debug\net472\CustomerCommLib.AssemblyInfo.cs
+C:\FSE_Labs\CustomerCommLib\CustomerCommLib\obj\Debug\net472\CustomerCommLib.csproj.CoreCompileInputs.cache
+C:\FSE_Labs\CustomerCommLib\CustomerCommLib\obj\Debug\net472\CustomerCommLib.dll
+C:\FSE_Labs\CustomerCommLib\CustomerCommLib\obj\Debug\net472\CustomerCommLib.pdb
