@@ -1,0 +1,6 @@
+C:\FSE_Labs\ConverterLib\obj\Debug\ConverterLib.csproj.AssemblyReference.cache
+C:\FSE_Labs\ConverterLib\obj\Debug\ConverterLib.csproj.CoreCompileInputs.cache
+C:\FSE_Labs\ConverterLib\bin\Debug\ConverterLib.dll
+C:\FSE_Labs\ConverterLib\bin\Debug\ConverterLib.pdb
+C:\FSE_Labs\ConverterLib\obj\Debug\ConverterLib.dll
+C:\FSE_Labs\ConverterLib\obj\Debug\ConverterLib.pdb
