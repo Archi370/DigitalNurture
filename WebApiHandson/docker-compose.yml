@@ -1,0 +1,20 @@
+version: '3.8'
+
+services:
+  backend-api:
+    build:
+      context: ./WebApiHandson
+      dockerfile: Dockerfile
+    ports:
+      - "7267:8080"
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+
+  frontend-dashboard:
+    build:
+      context: ./ReactHandson
+      dockerfile: Dockerfile
+    ports:
+      - "5173:80"
+    depends_on:
+      - backend-api
