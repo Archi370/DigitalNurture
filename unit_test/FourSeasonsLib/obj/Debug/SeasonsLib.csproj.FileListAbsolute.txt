@@ -1,0 +1,6 @@
+C:\FSE_Labs\FourSeasonsLib\bin\Debug\SeasonsLib.dll
+C:\FSE_Labs\FourSeasonsLib\bin\Debug\SeasonsLib.pdb
+C:\FSE_Labs\FourSeasonsLib\obj\Debug\SeasonsLib.csproj.AssemblyReference.cache
+C:\FSE_Labs\FourSeasonsLib\obj\Debug\SeasonsLib.csproj.CoreCompileInputs.cache
+C:\FSE_Labs\FourSeasonsLib\obj\Debug\SeasonsLib.dll
+C:\FSE_Labs\FourSeasonsLib\obj\Debug\SeasonsLib.pdb
