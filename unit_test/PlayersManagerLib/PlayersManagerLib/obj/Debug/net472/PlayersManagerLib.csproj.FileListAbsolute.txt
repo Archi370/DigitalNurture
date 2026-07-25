@@ -1,0 +1,9 @@
+C:\FSE_Labs\PlayersManagerLib\PlayersManagerLib\bin\Debug\net472\PlayersManagerLib.dll
+C:\FSE_Labs\PlayersManagerLib\PlayersManagerLib\bin\Debug\net472\PlayersManagerLib.pdb
+C:\FSE_Labs\PlayersManagerLib\PlayersManagerLib\obj\Debug\net472\PlayersManagerLib.csproj.AssemblyReference.cache
+C:\FSE_Labs\PlayersManagerLib\PlayersManagerLib\obj\Debug\net472\PlayersManagerLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\FSE_Labs\PlayersManagerLib\PlayersManagerLib\obj\Debug\net472\PlayersManagerLib.AssemblyInfoInputs.cache
+C:\FSE_Labs\PlayersManagerLib\PlayersManagerLib\obj\Debug\net472\PlayersManagerLib.AssemblyInfo.cs
+C:\FSE_Labs\PlayersManagerLib\PlayersManagerLib\obj\Debug\net472\PlayersManagerLib.csproj.CoreCompileInputs.cache
+C:\FSE_Labs\PlayersManagerLib\PlayersManagerLib\obj\Debug\net472\PlayersManagerLib.dll
+C:\FSE_Labs\PlayersManagerLib\PlayersManagerLib\obj\Debug\net472\PlayersManagerLib.pdb
