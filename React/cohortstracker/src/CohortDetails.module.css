@@ -1,0 +1,106 @@
+/* Card Container with Modern Glassmorphism */
+.box {
+  width: 320px;
+  display: inline-flex;
+  flex-direction: column;
+  vertical-align: top;
+  margin: 16px;
+  padding: 24px;
+  border-radius: 18px;
+  background: #ffffff;
+  border: 1px solid rgba(226, 232, 240, 0.8);
+  box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.04), 0 8px 10px -6px rgba(0, 0, 0, 0.01);
+  transition: all 0.35s cubic-bezier(0.4, 0, 0.2, 1);
+  position: relative;
+  overflow: hidden;
+}
+
+/* Gradient Top Bar Accent */
+.box::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 5px;
+  background: currentColor;
+}
+
+/* Hover Elevation & Soft Outer Glow */
+.box:hover {
+  transform: translateY(-8px) scale(1.01);
+  box-shadow: 0 20px 30px -10px rgba(0, 0, 0, 0.08), 0 10px 15px -5px rgba(0, 0, 0, 0.04);
+  border-color: rgba(203, 213, 225, 0.8);
+}
+
+/* Header & Title Styling */
+.header {
+  font-size: 1.15rem;
+  font-weight: 700;
+  margin: 0 0 18px 0;
+  letter-spacing: -0.02em;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.techTag {
+  font-weight: 500;
+  opacity: 0.8;
+  font-size: 0.95rem;
+}
+
+/* Definition Grid Layout */
+.detailsList {
+  display: grid;
+  grid-template-columns: auto 1fr;
+  row-gap: 12px;
+  column-gap: 16px;
+  margin: 0;
+  padding: 0;
+  align-items: center;
+}
+
+/* Lab Rule Compliant <dt> tag selector */
+dt {
+  font-weight: 500;
+  font-size: 0.825rem;
+  color: #64748b; /* Slate gray */
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+}
+
+dd {
+  margin: 0;
+  font-size: 0.925rem;
+  font-weight: 600;
+  color: #0f172a;
+  text-align: right;
+}
+
+/* Status Pill Badge */
+.statusBadge {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 4px 12px;
+  border-radius: 9999px;
+  font-size: 0.75rem;
+  font-weight: 700;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+}
+
+/* Live Status Pulsing Dot */
+.statusDot {
+  width: 7px;
+  height: 7px;
+  border-radius: 50%;
+  background-color: currentColor;
+  animation: pulse 1.8s infinite ease-in-out;
+}
+
+@keyframes pulse {
+  0%, 100% { opacity: 1; transform: scale(1); }
+  50% { opacity: 0.3; transform: scale(0.75); }
+}

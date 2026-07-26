@@ -1,0 +1,18 @@
+/* src/CohortDetails.module.css */
+
+/* Box container class as per specifications */
+.box {
+  width: 300px;
+  display: inline-block;
+  margin: 10px;
+  padding: 10px 20px;
+  border: 1px solid black;
+  border-radius: 10px;
+  vertical-align: top;
+  box-sizing: border-box;
+}
+
+/* Tag selector for <dt> elements */
+dt {
+  font-weight: 500;
+}
