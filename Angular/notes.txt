@@ -1,0 +1,72 @@
+========================================================================
+STUDENT COURSE PORTAL - ANGULAR ARCHITECTURE & CONFIGURATION NOTES
+========================================================================
+
+1. angular.json
+------------------------------------------------------------------------
+- Purpose: The central workspace configuration file for Angular CLI projects.
+- Key Sections:
+  * "projects": Defines metadata, options, build configurations, and test settings for each project in the workspace.
+  * "architect": Contains execution targets for CLI commands:
+    - "build": Specifies builder options, output path (dist/), main entry file, index.html, assets, styles, and scripts.
+    - "serve": Configures development server (ng serve) options like port, live reload, and build targets.
+    - "test": Configures unit test runner settings and builder.
+- Significance: Controls how Angular CLI compiles, serves, bundles, and tests the application.
+
+2. tsconfig.json
+------------------------------------------------------------------------
+- Purpose: The root TypeScript compiler configuration file for the entire workspace.
+- Key Options:
+  * "compilerOptions": Sets language target (e.g., ES2022), module resolution strategy ("node"), strict type checking flags, experimental decorators, and path aliases.
+  * "compileOnSave": Disables or enables auto-compilation on file save.
+- Significance: Establishes base TypeScript compilation rules shared by app, spec, and server configs.
+
+3. tsconfig.app.json
+------------------------------------------------------------------------
+- Purpose: TypeScript compiler configuration specifically targetting application source code.
+- Key Options:
+  * "extends": Points to "./tsconfig.json" to inherit base settings.
+  * "compilerOptions": Specifies outDir, types (e.g., node), and application-specific compiler overrides.
+  * "files" / "include": Includes "src/main.ts" and all "*.ts" files in src/ while excluding spec/test files.
+- Significance: Ensures tests are excluded from production app builds for optimal bundle size and speed.
+
+4. package.json
+------------------------------------------------------------------------
+- Purpose: Standard Node.js package manifest listing project dependencies, scripts, and metadata.
+- Key Sections:
+  * "scripts": CLI shorthand commands (npm run build, npm start, npm test).
+  * "dependencies": Core framework packages required at runtime (@angular/core, @angular/router, rxjs, @ngrx/store).
+  * "devDependencies": Tooling packages required only during development (@angular/cli, typescript, vitest/jasmine).
+- Significance: Manages third-party library dependencies and task scripts.
+
+5. src/main.ts
+------------------------------------------------------------------------
+- Purpose: The main entry point script of the Angular web application.
+- Execution Flow:
+  * Invokes `bootstrapApplication(AppComponent, appConfig)` to initialize the standalone Angular root component.
+  * Catches and logs startup errors.
+- Significance: Connects the root component (`AppComponent`) and application providers (`appConfig`) to the browser DOM.
+
+6. src/app/app.config.ts
+------------------------------------------------------------------------
+- Purpose: Modern Angular (v17+) application configuration file replacing traditional AppModule.
+- Content:
+  * Exports `appConfig: ApplicationConfig` containing application-wide dependency injection providers.
+  * Registers router (`provideRouter`), HTTP client (`provideHttpClient`), NgRx store (`provideStore`), hydration, and interceptors.
+- Significance: Centralized registration hub for global providers, routing, HTTP interceptors, and state management.
+
+7. src/app/app.ts (or app.component.ts)
+------------------------------------------------------------------------
+- Purpose: The root Angular component of the application hierarchy.
+- Content:
+  * Standalone component specifying selector ('app-root'), imports (RouterOutlet, HeaderComponent, etc.), template, and styles.
+  * Acts as the layout shell containing global navigation header, toast notifications, loading indicators, and `<router-outlet>`.
+- Significance: Top-level component rendered by `main.ts` into `index.html`.
+
+8. src/index.html
+------------------------------------------------------------------------
+- Purpose: The single HTML web page served to the browser (Single Page Application architecture).
+- Content:
+  * Standard HTML head metadata (title, charset, viewport, meta tags).
+  * `<app-root></app-root>` target tag in `<body>` where Angular mounts `AppComponent`.
+- Significance: Provides the HTML host page for the SPA container.

@@ -1,0 +1,102 @@
+{
+  "courses": [
+    {
+      "id": "1",
+      "code": "CS101",
+      "title": "Data Structures & Algorithms",
+      "description": "Fundamental data structures including arrays, linked lists, trees, graphs, and algorithmic complexity analysis.",
+      "instructor": "Dr. Sarah Jenkins",
+      "credits": 4,
+      "gradeStatus": "passed",
+      "department": "Computer Science"
+    },
+    {
+      "id": "2",
+      "code": "WEB201",
+      "title": "Modern Web Development with Angular",
+      "description": "Comprehensive guide to building enterprise SPA applications using Angular standalone components, RxJS, and NgRx.",
+      "instructor": "Prof. Alex Rivera",
+      "credits": 3,
+      "gradeStatus": "pending",
+      "department": "Software Engineering"
+    },
+    {
+      "id": "3",
+      "code": "DB301",
+      "title": "Database Management Systems",
+      "description": "Relational database concepts, SQL query optimization, normalization, indexing, and ACID transactions.",
+      "instructor": "Dr. Michael Chang",
+      "credits": 4,
+      "gradeStatus": "passed",
+      "department": "Information Systems"
+    },
+    {
+      "id": "4",
+      "code": "AI401",
+      "title": "Artificial Intelligence & Machine Learning",
+      "description": "Introduction to neural networks, supervised and unsupervised learning algorithms, and deep learning models.",
+      "instructor": "Dr. Emily Watson",
+      "credits": 4,
+      "gradeStatus": "failed",
+      "department": "Computer Science"
+    },
+    {
+      "id": "5",
+      "code": "SE102",
+      "title": "Software Architecture & Design Patterns",
+      "description": "Design patterns, clean code principles, SOLID concepts, and microservices architecture.",
+      "instructor": "Prof. David Miller",
+      "credits": 2,
+      "gradeStatus": "pending",
+      "department": "Software Engineering"
+    }
+  ],
+  "students": [
+    {
+      "id": "101",
+      "name": "Alice Smith",
+      "email": "alice@university.edu",
+      "enrolledCourseId": 1
+    },
+    {
+      "id": "102",
+      "name": "Bob Johnson",
+      "email": "bob@university.edu",
+      "enrolledCourseId": 1
+    },
+    {
+      "id": "103",
+      "name": "Charlie Davis",
+      "email": "charlie@university.edu",
+      "enrolledCourseId": 2
+    }
+  ],
+  "enrollments": [
+    {
+      "id": "1",
+      "studentName": "Alice Smith",
+      "studentEmail": "alice@university.edu",
+      "courseId": 1,
+      "preferredSemester": "Fall",
+      "agreeToTerms": true,
+      "submissionDate": "2026-07-25"
+    },
+    {
+      "studentName": "Bratik Mukherjee",
+      "studentEmail": "batikmkj@gmail.com",
+      "courseId": 1,
+      "preferredSemester": "Fall",
+      "agreeToTerms": true,
+      "id": "BIU9rZaYAXw"
+    },
+    {
+      "studentName": "Bratik Mukherjee",
+      "studentEmail": "batikmkj@gmail.com",
+      "courseId": 1,
+      "preferredSemester": "Fall",
+      "agreeToTerms": true,
+      "id": "gV57zriUh-U"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
